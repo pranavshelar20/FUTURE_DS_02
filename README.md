@@ -5,7 +5,7 @@ An analysis of 7,043 telecom subscription customers: where churn happens, what k
 **Live dashboard:** https://pranavshelar20.github.io/FUTURE_DS_02/
 (enable GitHub Pages: Settings, Pages, Deploy from branch `main`, folder `/docs` to '/root')
 
-![Dashboard overview](images/01_overview.png)
+![Dashboard overview](01_overview.png)
 
 ## Headline findings
 
@@ -32,7 +32,7 @@ An analysis of 7,043 telecom subscription customers: where churn happens, what k
 
 | Cohorts | Churn reasons |
 |---|---|
-| ![Cohorts](images/02_cohorts.png) | ![Churn reasons](images/03_churn_reasons.png) |
+| ![Cohorts](02_cohorts.png) | ![Churn reasons](03_churn_reasons.png) |
 
 ## Recommendations in brief
 
