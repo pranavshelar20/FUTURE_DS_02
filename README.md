@@ -3,7 +3,7 @@
 An analysis of 7,043 telecom subscription customers: where churn happens, what keeps customers, how long they stay, and what a subscription business should do about it. The result is an interactive dashboard plus a reproducible Python pipeline.
 
 **Live dashboard:** https://pranavshelar20.github.io/FUTURE_DS_02/
-(enable GitHub Pages: Settings, Pages, Deploy from branch `main`, folder `/docs`)
+(enable GitHub Pages: Settings, Pages, Deploy from branch `main`, folder `/docs` to '/root')
 
 ![Dashboard overview](images/01_overview.png)
 
