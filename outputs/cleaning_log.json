@@ -1,0 +1,38 @@
+[
+ [
+  "Rows / columns in",
+  "7,043 / 21"
+ ],
+ [
+  "Duplicate customer IDs",
+  0
+ ],
+ [
+  "Fully duplicated rows",
+  0
+ ],
+ [
+  "Null cells (before)",
+  0
+ ],
+ [
+  "Blank TotalCharges",
+  "11 rows, all with tenure 0 (new sign-ups, nothing billed yet)"
+ ],
+ [
+  "Yes/No columns recoded to 1/0",
+  "11 columns; \"No internet service\" and \"No phone service\" folded into 0, with has_internet / has_phone flags kept"
+ ],
+ [
+  "Billing consistency check",
+  "TotalCharges is within \u00b125% of tenure \u00d7 MonthlyCharges for 100% of customers, so billing fields are internally consistent"
+ ],
+ [
+  "Outliers",
+  "Monthly charges range $18.25\u2013$118.75; tenure 0\u201372 months; no values removed"
+ ],
+ [
+  "Inconsistent combos",
+  "0 customers with internet add-ons but no internet"
+ ]
+]
